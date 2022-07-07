@@ -3,12 +3,35 @@
     <title>Joyas da Terra</title>
     <link href="https://joyasdaterra.org/feed.xml" rel="self" />
     <link href="https://joyasdaterra.org" />
-    <updated>2022-07-07T11:34:19+01:00</updated>
+    <updated>2022-07-07T11:43:50+01:00</updated>
     <author>
         <name>OWS</name>
     </author>
     <id>https://joyasdaterra.org</id>
 
+    <entry>
+        <title>Inscrições Abertas</title>
+        <author>
+            <name>OWS</name>
+        </author>
+        <link href="https://joyasdaterra.org/inscricoes-abertas.html"/>
+        <id>https://joyasdaterra.org/inscricoes-abertas.html</id>
+            <category term="Jornal"/>
+
+        <updated>2022-07-07T11:41:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://joyasdaterra.org/media/posts/16/NovaEstacao-2022.jpg" alt="" />
+                    Cursos e Vivências aos Fins de Semana Os nossos alunos têm nos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://joyasdaterra.org/media/posts/16/NovaEstacao-2022.jpg" alt="" />
+                <figure class="post__image">Cursos e Vivências aos Fins de Semana<br><br><img loading="lazy"  src="https://joyasdaterra.org/media/posts/16//NovaEstacao-2022-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://joyasdaterra.org/media/posts/16//responsive/NovaEstacao-2022-2-xs.jpg 300w ,https://joyasdaterra.org/media/posts/16//responsive/NovaEstacao-2022-2-sm.jpg 480w ,https://joyasdaterra.org/media/posts/16//responsive/NovaEstacao-2022-2-md.jpg 768w ,https://joyasdaterra.org/media/posts/16//responsive/NovaEstacao-2022-2-lg.jpg 1024w"  alt="" width="1200" height="628"></figure><br><br>Os nossos alunos têm nos pedido para aprofundar determinados temas, para os quais, durante um curso de Permacultura com toda a sua abrangência, o tempo é escasso. Este ano decidimos apostar em fazer cursos e vivências mais específicos e direcionados a temas mais concretos, de curta duração e ao fim de semana. Assim estes cursos são oportunidades de isolarmos e dissecarmos de forma mais detalhada a informação sobre alguns tópicos. É aconselhável já ter feito um PDC mas não é essencial.<br><br><a href="https://joyasdaterra.org/curso-agrofloresta.html"><strong>Agrofloresta – Introdução aos Sistemas Agroflorestais</strong></a><br>A evolução de qualquer sistema natural é no sentido de criar florestas, assim podemos imitar a natureza e criar bosques de alimentos que são florestas de árvores, arbustos, herbáceas, raízes e trepadeiras que produzem comida e bens utilitários como madeira, resinas e fibras para utilização Humana. Este sistema pode ser replicado tanto em jardins pequenos como em áreas extensas. Iremos abordar o conceito ecológico, planeamento, simbioses, espaçamentos, implementação e manutenção. Teremos também alguns casos de estudo para explorar e ver in locco sistemas jovens em crescimento.<br><br><a href="https://joyasdaterra.org/curso-de-solos-microbiologia-compostagem-e-horta.html"><strong>Solos – microbiologia, compostagem e horta</strong></a><br>Mais do que um mero substrato físico, o solo é uma rede de organismos que interagem à superfície da terra. Estes microrganismos suportam toda a vida acima do solo, plantas e animais (incluindo os humanos), eles são o princípio e o fim da cadeia alimentar, da grande teia da vida. Neste workshop iremos aprofundar conhecimento de como colaborar com estes organismos na compostagem e na horta para desenvolvermos ecossistemas abundantes, férteis e saudáveis.<br><br><strong>A Alquimia – plantas espontâneas, saúde, sabonetes e alimentação</strong><br>Elas estão por todo o lado, à nossa volta, imóveis, disponíveis e discretas (umas mais que outras), guardam em si a luz do Sol! Desde tempos imemoriais que os seres humanos interagem com o reino das plantas como base para a alimentação, elas trazem-nos as suas medicinas, tinturas e fibras, e preenchem os nossos sentidos com as suas cores e aromas. Para além de aprender a identificar algumas plantas espontâneas da nossa flora, neste workshop pretendemos aprender algo sobre as suas propriedades mais evidentes e subtis na nossa alimentação, como colher e preservar as suas propriedades usando a “alquimia” na produção de sabonetes.<br><br><strong><a href="https://joyasdaterra.org/o-ser-yoga-e-permacultura.html">O Ser – Yoga e Permacultura</a></strong><br>De forma a conseguirmos desenvolver uma relação pacífica e harmoniosa com o mundo, trazendo-lhe um significado profundo, precisamos olhar também para nossa relação connosco próprios e como aplicamos essa harmonia nas nossas vidas do dia a dia. Num mundo globalizado, em crises a vários níveis, alguns de nós sentem a necessidade eminente de agir e criar mudanças, se essas mudanças acontecerem tanto dentro como fora, na forma e no conteúdo, a sua força será íntegra e inteira. Neste workshop iremos criar pontes entre o mundo do yoga e da permacultura, procurando integrar estas duas filosofias para o desenvolvimento completo do Ser e para benefício de todos os seres.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>O Ser – Yoga e Permacultura</title>
         <author>
@@ -41,9 +64,10 @@
         </author>
         <link href="https://joyasdaterra.org/dia-aberto.html"/>
         <id>https://joyasdaterra.org/dia-aberto.html</id>
+            <category term="Jornal"/>
             <category term="Actividades"/>
 
-        <updated>2022-07-07T11:26:31+01:00</updated>
+        <updated>2022-07-07T11:43:50+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://joyasdaterra.org/media/posts/14/upload_dc3dd21d367fc70cbfb8ec7ffab43748.jpg" alt="" />
@@ -196,7 +220,6 @@
         </author>
         <link href="https://joyasdaterra.org/educacao.html"/>
         <id>https://joyasdaterra.org/educacao.html</id>
-            <category term="Comum"/>
 
         <updated>2022-07-07T11:09:43+01:00</updated>
             <summary>
@@ -226,7 +249,6 @@
         </author>
         <link href="https://joyasdaterra.org/comunidade.html"/>
         <id>https://joyasdaterra.org/comunidade.html</id>
-            <category term="Comum"/>
 
         <updated>2022-07-07T11:09:22+01:00</updated>
             <summary>
@@ -244,36 +266,6 @@
 <div class="entry-wrapper">
 <div class="entry-content">
 <p>Independentemente do sector em que trabalhamos, podemos promover relações conscientes e positivas usando formas de comunicação autêntica, métodos de tomada de decisão eficientes e participativos, ou outras práticas que ajudem a estabelecer relações sociais saudáveis e cooperativas no nosso dia a dia, seja com as nossas famílias, na relação com os vizinhos ou nas nossas relações sociais, empresariais ou políticas. Talvez assim possamos criar ações mais igualitárias e justas que nos ajudem a viver em sociedades mais cooperativas e éticas. Os desafios coletivos que encontramos hoje em dia, podem às vezes parecer insuperáveis e levar-nos a desresponsabilizarmo-nos pela situação em que vive a sociedade atual, mas o impacto que podemos ter no trabalho do dia a dia, de forma individual, com cada um fazendo a sua parte, é bem maior do que aquilo que pode parecer. Desenvolvendo o nosso sentido de realização interior, a nossa auto-estima, confiança e amor próprio leva-nos a ser cidadãos felizes e preenchidos, que conseguem desenvolver as mesmas qualidades nas suas relações com os outros e assim contribuir para uma sociedade saudável, estável e sustentável. Para além disso, transformando a maneira como lidamos com a economia, tendo em vista o nosso envolvimento nela, podemos fortalecer círculos de proximidade, de resiliência e de confiança na comunidade. A possibilidade que temos de influenciar e favorecer a economia local, deve se sobrepor aos estímulos do facilitismo, do materialismo e do consumismo moderno e permitir-nos olhar para as nossas ações com o poder que elas têm de redirecionar e apoiar a sociedade num caminho de sustentabilidade que pretendemos criar. Parece-nos que integrar os movimentos ambientais e sociais existentes numa abordagem holística, ecológica e espiritual da vida, trará mais hipóteses de transformar o paradigma atual da sociedade em que vivemos. Estes movimentos quando trabalhados de forma isolada, cumprem o seu papel mas se trabalhados em conjunto podem potenciar e fortalecer os laços e pontos de ligação dentro da sociedade. " O grande trabalho de transformação social começa com o pequeno passo de parar, acalmar, relaxar, respirar, refletir e agir de forma benéfica." Satish Kumar</p>
-</div>
-</div>
-</article>
-<div class="navigation post-navigation"> </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>MEDITAÇÃO</title>
-        <author>
-            <name>OWS</name>
-        </author>
-        <link href="https://joyasdaterra.org/meditacao.html"/>
-        <id>https://joyasdaterra.org/meditacao.html</id>
-
-        <updated>2022-07-04T22:40:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                    A ideia de que o solo tem vida, está vivo e dá&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>A ideia de que o solo tem vida, está vivo e dá vida, sempre foi partilhada entre as pessoas e serviu de base para muitas culturas que cuidavam e nutriam o solo. Pessoas que vivem numa relação próxima com o solo conseguem ver com facilidade que o solo é um sistema vivo.</p>
-<figure class="post__image"><img loading="lazy"  src="https://joyasdaterra.org/media/posts/6/meditacao.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://joyasdaterra.org/media/posts/6/responsive/meditacao-xs.jpg 300w ,https://joyasdaterra.org/media/posts/6/responsive/meditacao-sm.jpg 480w ,https://joyasdaterra.org/media/posts/6/responsive/meditacao-md.jpg 768w ,https://joyasdaterra.org/media/posts/6/responsive/meditacao-lg.jpg 1024w"  alt="" width="694" height="510"></figure>
-<p> </p>
-<article class="entry">
-<div class="entry-wrapper">
-<div class="entry-content">
-<p>Meditamos para conectar, num tempo e num espaço, só nosso. Para criarmos um momento de pausa no decorrer do nosso dia a dia em que nos permitimos ser e estar connosco próprios, abrindo-nos à experiência de vivenciar o presente, tal como é. Entrar no silêncio e voltar a nossa atenção para o interior, acompanhando a respiração como veículo de entrada é uma das formas mais comuns de o fazer. Desta forma permitimos que a nossa atenção assente sobre algo tão subtil e ao mesmo tempo constante, que nos acompanha em todos os momentos das nossas vidas que é a nossa respiração. O próprio ato de tomar consciência da respiração - inspiração, expiração e os entretantos que acontecem entre um e outro - permite-nos reconhecer e entrar em contacto com o que se está a passar cá dentro. Da mesma forma, ao tomarmos perceção do nosso estado interior conseguimos direciona-lo através do controlo sobre a nossa respiração. Os benefícios de esta e outras formas de meditação são imensos e estão descritos em inúmeros estudos e livros, podemos ler sobre eles e estudá-los o quanto quisermos, mas apenas quando praticamos é que podemos realmente experienciar os resultados nas nossas vidas. Há uma história contada por um mestre de um templo Shaolin, que fala sobre um homem, que vivia perto de uma montanha e todos os dias pensava "como é que seria subir aquela montanha e o que é vou ver quando chegar ao topo?" Finalmente o dia chegou em que o homem se pôs a caminho. Chegando ao sopé da montanha encontrou o primeiro viajante e perguntou-lhe "como é que subiste à montanha e o que é que viste lá de cima?" O viajante partilhou com ele o seu caminho e descreveu a vista que teve lá de cima. Mas depois o homem ficou a pensar "a maneira que este viajante me contou parece muito cansativa, preciso encontrar outra forma de subir" E assim, continuou a caminhar no sopé da montanha até encontrar outro viajante e o homem voltou a perguntar "como é que subiste à montanha e o que é que viste lá de cima?" E o viajante partilhou com ele a sua história. Não estando ainda decidido sobre a direção e o caminho a levar o homem perguntou a mais trinta pessoas, a mais trinta viajantes a mesma coisa, quando acabou de falar com todos eles, finalmente tomou uma decisão. "agora que tantas pessoas partilharam comigo o seu caminho e em especial o que é que viram de lá de cima, eu já não preciso subir". Para concluir esta história, em primeira análise podemos ver que há várias maneiras de subir à montanha e cada pessoa deve encontrar o seu caminho para o fazer! Em segundo, vemos que há informações, que podem ser partilhadas através da palavra, que descrevem a visão do cume da montanha, mas será impossível obtermos a visão de claridade que se tem a partir do pico se ficarmos no sopé!</p>
 </div>
 </div>
 </article>
