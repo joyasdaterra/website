@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://joyasdaterra.org/consultoria.html",
+            "url": "https://joyasdaterra.org/consultoria.html",
+            "title": "Consultoria",
+            "summary": "Estamos disponíveis para prestar serviços de consultoria e design. A forma como&hellip;",
+            "content_html": "<p><span style=\"color: #000000;\"><span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\">Estamos disponíveis para prestar serviços de consultoria e design. </span></span></span></p>\n<p><span style=\"color: #000000;\"><span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\">A forma como procedemos com os trabalhos de design geralmente evolui da seguinte forma:</span></span></span></p>\n<ul type=\"DISC\">\n<li>\n<p><span style=\"color: #222222;\"><span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\"><span style=\"color: #000000;\">1: 1 dia de visita para </span><span style=\"color: #000000;\"><u>Observação e análise</u></span><span style=\"color: #000000;\">: visita ao local/projeto com o objetivo de fazer uma visita ao terreno/espaço, entrevista ao cliente e depois enviamos um documento com uma analise SWAT do que observamos e analisamos. No final entregamos um relatório com a informação reunida. Esta visita tem como objectivo conhecer as pessoas, o local e dar uma ideia geral do que observamos, sendo depois avaliada a possibilidade de continuar o trabalho de design por ambas as partes.</span></span></span></span></p>\n</li>\n<li>\n<figure class=\"post__image\"><span style=\"color: #222222;\"><span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\"><span style=\"color: #000000;\"><img loading=\"lazy\"  src=\"https://joyasdaterra.org/media/posts/40/Joana-Fraga-da-Mo.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://joyasdaterra.org/media/posts/40/responsive/Joana-Fraga-da-Mo-xs.png 300w ,https://joyasdaterra.org/media/posts/40/responsive/Joana-Fraga-da-Mo-sm.png 480w ,https://joyasdaterra.org/media/posts/40/responsive/Joana-Fraga-da-Mo-md.png 768w ,https://joyasdaterra.org/media/posts/40/responsive/Joana-Fraga-da-Mo-lg.png 1024w\"  alt=\"\" width=\"1780\" height=\"702\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://joyasdaterra.org/media/posts/40/TERRA-FEITA_VEGETACAO_A3-Copia.pdf\" alt=\"\"></figure></span></span></span></span></p>\n</li>\n<li>\n<p><span style=\"color: #222222;\"><span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\"><span style=\"color: #000000;\"><span lang=\"en-GB\">2: </span></span><span style=\"color: #000000;\"><span lang=\"en-GB\"><u>Design Geral</u></span></span><span style=\"color: #000000;\"><span lang=\"en-GB\">: Se o cliente assim o quiser fazemos uma plano geral do projeto. Através da analise e observação que fizemos, desenhamos e planeamos os seguintes temas: Água, Acessos e Estruturas, Vegetação e Zonas temáticas. Estes estarão representados em mapas para podem ser usados pelo cliente na execução do projeto e num relatório que descreve e analisa perante a aplicação de príncipios de Permacultura. É importante entender que este é um desenho geral, tem como objetivo representar o projeto no futuro com uma visão ampla do seu funcionamento numa interação Homem- Terra.  Por exemplo no design geral indicamos o melhor local para o pomar, realçando os seus pontos de interação com o  meio, sem indicar características específicas da sua implementação. </span></span></span></span></span></p>\n</li>\n</ul>\n<p> </p>\n<p> </p>\n<ul type=\"DISC\">\n<li>\n<p lang=\"en-GB\"><span style=\"color: #000000;\"><span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\">3: <u>Designs específicos e fase de Implementação</u>: depois de se acordar com os conceitos gerais do projeto poderão ser feitas análises e desenhos mais específicos e  poderemos ajudar na estruturação e implementação do design. Por exemplo no caso do pomar poderemos desenhar mais especificamente as arvores e arbustos que se querem (que frutos, variedades, para que uso, se são adaptadas ao local, como fazer a implementação) e assim em diante com o resto dos elementos que se queiram implementar. Isto pode ser feito de duas formas:</span></span></span></p>\n</li>\n<li>\n<p><span style=\"color: #000000;\"> <span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\">um acompanhamento regular com visitas ao local e trabalhos de organização e design feitos a partir de casa </span></span></span></p>\n</li>\n<li>\n<p><span style=\"color: #000000;\">  <span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\">acompanhamento esporádico de consultoria quando for necessário</span></span></span></p>\n</li>\n<li>\n<p><span style=\"color: #000000;\"><span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\">Os valores desta fase dependem das condições inviduais de cada projecto. Trabalhamos com equipas que pode fazer as implementações em várias áreas: Horta, Pomar, agrofloresta, construção e sistemas de água. </span></span></span></p>\n</li>\n</ul>",
+            "author": {
+                "name": "Joyas"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-07T16:55:05+01:00",
+            "date_modified": "2022-07-07T16:55:05+01:00"
+        },
+        {
             "id": "https://joyasdaterra.org/na-serra.html",
             "url": "https://joyasdaterra.org/na-serra.html",
             "title": "Na Serra",
@@ -153,22 +167,6 @@
             ],
             "date_published": "2022-07-07T12:04:02+01:00",
             "date_modified": "2022-07-07T12:04:02+01:00"
-        },
-        {
-            "id": "https://joyasdaterra.org/maias.html",
-            "url": "https://joyasdaterra.org/maias.html",
-            "title": "Maias",
-            "summary": "Ai estão as maias, que bela altura do ano em que a&hellip;",
-            "content_html": "<p class=\"part\" data-startline=\"279\" data-endline=\"279\">Ai estão as maias, que bela altura do ano em que a montanha se enche de cores e cheiros!</p>\n<p class=\"part\" data-startline=\"281\" data-endline=\"281\">In may the mountains become full of colour and senses, here are the “Maias”!</p>\n<p class=\"part\" data-startline=\"283\" data-endline=\"283\">#permacultura #pdc #agrofloresta #composto #</p>\n<p class=\"part\" data-startline=\"285\" data-endline=\"285\">#joyasdaterra #joanacosta #yassinebenderra</p>",
-            "image": "https://joyasdaterra.org/media/posts/30/maias.jpg",
-            "author": {
-                "name": "Joyas"
-            },
-            "tags": [
-                   "Jornal"
-            ],
-            "date_published": "2022-07-07T12:03:23+01:00",
-            "date_modified": "2022-07-07T12:03:23+01:00"
         }
     ]
 }
