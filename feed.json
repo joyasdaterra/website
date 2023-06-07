@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://joyasdaterra.org/artigos.html",
+            "url": "https://joyasdaterra.org/artigos.html",
+            "title": "Artigos",
+            "author": {
+                "name": "Joyas"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-07T22:07:07+01:00",
+            "date_modified": "2023-06-07T22:07:07+01:00"
+        },
+        {
             "id": "https://joyasdaterra.org/curso-de-design-em-permacultura.html",
             "url": "https://joyasdaterra.org/curso-de-design-em-permacultura.html",
             "title": "Curso de Design em Permacultura",
@@ -168,21 +180,6 @@
             ],
             "date_published": "2022-11-27T13:36:25+00:00",
             "date_modified": "2023-06-06T19:10:03+01:00"
-        },
-        {
-            "id": "https://joyasdaterra.org/consultoria.html",
-            "url": "https://joyasdaterra.org/consultoria.html",
-            "title": "Consultoria",
-            "summary": "Para além de trabalharmos na nossa terra, apoiamos outros&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://joyasdaterra.org/media/posts/40/gallery/mapa-2.png\" data-size=\"1021x497\"><img loading=\"lazy\" src=\"https://joyasdaterra.org/media/posts/40/gallery/mapa-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"374\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://joyasdaterra.org/media/posts/40/gallery/20210115_171450-2.jpg\" data-size=\"4128x3096\"><img loading=\"lazy\" src=\"https://joyasdaterra.org/media/posts/40/gallery/20210115_171450-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://joyasdaterra.org/media/posts/40/gallery/20220628_165259.jpg\" data-size=\"4128x3096\"><img loading=\"lazy\" src=\"https://joyasdaterra.org/media/posts/40/gallery/20220628_165259-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>\n<p>Para além de trabalharmos na nossa terra, apoiamos outros projetos que queiram usar a harmonia e eficiência que um design de Permacultura traz para o terreno. De acordo com as necessidades das pessoas, a nossa consultoria pode limitar-se a uma visita ao terreno, a realizar design geral e específico ou a acompanhar a gestão do projeto a longo prazo.</p>\n<p><strong>OBSERVAÇÃO E ANÁLISE</strong> - visita técnica ao local com dois focos</p>\n<p>1- Entrevistar o cliente para conhecer os seus desejos e objetivos relativos ao projeto.</p>\n<p>2- Percorrer o local para observar, analisar e produzir um documento que intergre a nossa avaliação do espaço e um briefing com o cliente.</p>\n<p><strong>DESIGN GERAL </strong>- o design é uma diretriz do projeto. O seu objetivo é dar suporte e orientar a execução do mesmo respeitando-se os príncipios de Permacultura. É acompanhado por cinco mapas do terreno que consideram os aspetos essenciais para uma intervenção no local: água, acessos, estruturas, vegetação e disponibilidade de energia (zonas). </p>\n<p><strong>IMPLEMENTAÇÃO</strong> - a fase de implementação precisa de um planeamento estratégico orientado por designs específicos e planos de ação, com responsabilidades, prazo e custo - para cada área ou sector do projeto. Consosante a sua extensão, trabalhamos com o apoio de equipas parceiras na implementação de hortas, pomares, agroflorestas, bioconstruções e sistemas de água (captação, armazenamento, tratamento, infiltração). <span style=\"color: #000000;\"><span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\"> </span></span></span></p>\n<h4 class=\"msg msg--highlight  align-center\"><span style=\"color: #3598db;\"><span style=\"font-family: arial, sans-serif;\"><span style=\"font-size: medium;\">A cuidadosa <strong>observação dos padrões da Natureza</strong>, a <strong>eficiência energética </strong>e a <strong>interligação dos elementos </strong>são as nossas permissas para a gestão da Terra. </span></span></span></h4>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://joyasdaterra.org/media/posts/40/mapa-vegetacao-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://joyasdaterra.org/media/posts/40/responsive/mapa-vegetacao-2-xs.png 300w ,https://joyasdaterra.org/media/posts/40/responsive/mapa-vegetacao-2-sm.png 480w ,https://joyasdaterra.org/media/posts/40/responsive/mapa-vegetacao-2-md.png 768w ,https://joyasdaterra.org/media/posts/40/responsive/mapa-vegetacao-2-lg.png 1024w\"  alt=\"\" width=\"656\" height=\"471\"></figure>\n<h4> </h4>\n<h4> </h4>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>",
-            "author": {
-                "name": "Joyas"
-            },
-            "tags": [
-                   "Consultoria"
-            ],
-            "date_published": "2022-07-07T16:55:05+01:00",
-            "date_modified": "2023-02-20T19:16:16+00:00"
         }
     ]
 }
